@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgba(226, 72, 240, 0.575);
+    background-color:rgb(142, 74, 145);
     margin: 0;
 }
 
@@ -16,4 +16,5 @@ button {
     font-optical-sizing: auto;
     font-weight: auto;
     font-style: normal;
+    background-color:rgb(142, 74, 145);
 }
