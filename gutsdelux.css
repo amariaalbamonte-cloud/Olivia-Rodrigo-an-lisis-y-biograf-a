@@ -10,3 +10,10 @@ button {
     border: 1px solid #000; /* Puedes ajustar o quitar el borde si prefieres */
     cursor: pointer;
 }
+
+* {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+}
