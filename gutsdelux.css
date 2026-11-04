@@ -1,0 +1,12 @@
+
+body {
+    background-color: rgba(226, 72, 240, 0.575);
+    margin: 0;
+}
+
+/* Opcional: quita el fondo propio de los botones para que usen exactamente el mismo del fondo */
+button {
+    background-color: transparent;
+    border: 1px solid #000; /* Puedes ajustar o quitar el borde si prefieres */
+    cursor: pointer;
+}
